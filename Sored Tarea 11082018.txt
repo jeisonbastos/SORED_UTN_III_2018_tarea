@@ -1,0 +1,11 @@
+// Este es un documento cargado al repositorio a manera de prueba...
+***** Tarea *****
+Github
+	Crear un repostorio
+	Agregar Texto
+	Git Clone
+	Git Pull
+	Git Push
+	Git Commit
+
+******************************************************************
